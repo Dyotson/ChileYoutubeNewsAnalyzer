@@ -1,0 +1,3 @@
+youtube-comment-downloader
+nltk
+scrapetube

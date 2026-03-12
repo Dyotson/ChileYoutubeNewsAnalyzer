@@ -1,0 +1,10 @@
+{
+  "totalAccounts": 10315,
+  "totalComments": 17636,
+  "botAccounts": 202,
+  "botAccountPct": 1.96,
+  "botCommentVolume": 1432,
+  "botCommentVolumePct": 8.12,
+  "avgCommentsPerBot": 7.1,
+  "avgCommentsPerHuman": 1.6
+}

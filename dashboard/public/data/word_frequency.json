@@ -1,0 +1,802 @@
+[
+  {
+    "text": "chile",
+    "value": 1619
+  },
+  {
+    "text": "presidente",
+    "value": 1367
+  },
+  {
+    "text": "kast",
+    "value": 1106
+  },
+  {
+    "text": "boric",
+    "value": 973
+  },
+  {
+    "text": "pais",
+    "value": 682
+  },
+  {
+    "text": "dios",
+    "value": 681
+  },
+  {
+    "text": "gobierno",
+    "value": 644
+  },
+  {
+    "text": "anos",
+    "value": 543
+  },
+  {
+    "text": "mejor",
+    "value": 475
+  },
+  {
+    "text": "estan",
+    "value": 442
+  },
+  {
+    "text": "gracias",
+    "value": 395
+  },
+  {
+    "text": "chilenos",
+    "value": 389
+  },
+  {
+    "text": "hacer",
+    "value": 356
+  },
+  {
+    "text": "fin",
+    "value": 352
+  },
+  {
+    "text": "trump",
+    "value": 328
+  },
+  {
+    "text": "bueno",
+    "value": 305
+  },
+  {
+    "text": "grande",
+    "value": 304
+  },
+  {
+    "text": "delincuentes",
+    "value": 290
+  },
+  {
+    "text": "debe",
+    "value": 285
+  },
+  {
+    "text": "merluzo",
+    "value": 283
+  },
+  {
+    "text": "menos",
+    "value": 278
+  },
+  {
+    "text": "hizo",
+    "value": 278
+  },
+  {
+    "text": "viva",
+    "value": 277
+  },
+  {
+    "text": "dice",
+    "value": 273
+  },
+  {
+    "text": "familia",
+    "value": 268
+  },
+  {
+    "text": "ahi",
+    "value": 268
+  },
+  {
+    "text": "igual",
+    "value": 257
+  },
+  {
+    "text": "vida",
+    "value": 255
+  },
+  {
+    "text": "ojala",
+    "value": 247
+  },
+  {
+    "text": "creo",
+    "value": 246
+  },
+  {
+    "text": "verdad",
+    "value": 244
+  },
+  {
+    "text": "justicia",
+    "value": 243
+  },
+  {
+    "text": "pueblo",
+    "value": 242
+  },
+  {
+    "text": "carabineros",
+    "value": 241
+  },
+  {
+    "text": "caso",
+    "value": 240
+  },
+  {
+    "text": "derecha",
+    "value": 238
+  },
+  {
+    "text": "izquierda",
+    "value": 227
+  },
+  {
+    "text": "nuevo",
+    "value": 227
+  },
+  {
+    "text": "carcel",
+    "value": 222
+  },
+  {
+    "text": "casa",
+    "value": 221
+  },
+  {
+    "text": "poder",
+    "value": 217
+  },
+  {
+    "text": "da",
+    "value": 213
+  },
+  {
+    "text": "comunista",
+    "value": 210
+  },
+  {
+    "text": "verguenza",
+    "value": 208
+  },
+  {
+    "text": "senor",
+    "value": 208
+  },
+  {
+    "text": "pena",
+    "value": 207
+  },
+  {
+    "text": "dijo",
+    "value": 205
+  },
+  {
+    "text": "mundo",
+    "value": 199
+  },
+  {
+    "text": "plata",
+    "value": 199
+  },
+  {
+    "text": "falta",
+    "value": 192
+  },
+  {
+    "text": "tener",
+    "value": 191
+  },
+  {
+    "text": "persona",
+    "value": 191
+  },
+  {
+    "text": "gran",
+    "value": 189
+  },
+  {
+    "text": "mujer",
+    "value": 188
+  },
+  {
+    "text": "sera",
+    "value": 187
+  },
+  {
+    "text": "personas",
+    "value": 184
+  },
+  {
+    "text": "peor",
+    "value": 183
+  },
+  {
+    "text": "alcalde",
+    "value": 183
+  },
+  {
+    "text": "periodistas",
+    "value": 182
+  },
+  {
+    "text": "hijo",
+    "value": 182
+  },
+  {
+    "text": "ley",
+    "value": 181
+  },
+  {
+    "text": "decir",
+    "value": 176
+  },
+  {
+    "text": "ayuda",
+    "value": 174
+  },
+  {
+    "text": "claro",
+    "value": 172
+  },
+  {
+    "text": "quiere",
+    "value": 170
+  },
+  {
+    "text": "hecho",
+    "value": 165
+  },
+  {
+    "text": "hacen",
+    "value": 163
+  },
+  {
+    "text": "paso",
+    "value": 163
+  },
+  {
+    "text": "moneda",
+    "value": 162
+  },
+  {
+    "text": "bendiga",
+    "value": 162
+  },
+  {
+    "text": "tipo",
+    "value": 161
+  },
+  {
+    "text": "senora",
+    "value": 161
+  },
+  {
+    "text": "trabajo",
+    "value": 158
+  },
+  {
+    "text": "periodista",
+    "value": 157
+  },
+  {
+    "text": "sabe",
+    "value": 156
+  },
+  {
+    "text": "respeto",
+    "value": 155
+  },
+  {
+    "text": "favor",
+    "value": 155
+  },
+  {
+    "text": "face",
+    "value": 155
+  },
+  {
+    "text": "mano",
+    "value": 154
+  },
+  {
+    "text": "politica",
+    "value": 154
+  },
+  {
+    "text": "chileno",
+    "value": 154
+  },
+  {
+    "text": "politicos",
+    "value": 153
+  },
+  {
+    "text": "cara",
+    "value": 153
+  },
+  {
+    "text": "millones",
+    "value": 151
+  },
+  {
+    "text": "comunistas",
+    "value": 151
+  },
+  {
+    "text": "cambio",
+    "value": 151
+  },
+  {
+    "text": "hijos",
+    "value": 148
+  },
+  {
+    "text": "weon",
+    "value": 147
+  },
+  {
+    "text": "naya",
+    "value": 147
+  },
+  {
+    "text": "muerte",
+    "value": 146
+  },
+  {
+    "text": "tiempo",
+    "value": 146
+  },
+  {
+    "text": "vamos",
+    "value": 145
+  },
+  {
+    "text": "quieren",
+    "value": 145
+  },
+  {
+    "text": "pobre",
+    "value": 145
+  },
+  {
+    "text": "argentina",
+    "value": 143
+  },
+  {
+    "text": "parece",
+    "value": 141
+  },
+  {
+    "text": "dinero",
+    "value": 140
+  },
+  {
+    "text": "buena",
+    "value": 139
+  },
+  {
+    "text": "usted",
+    "value": 138
+  },
+  {
+    "text": "haber",
+    "value": 137
+  },
+  {
+    "text": "iran",
+    "value": 137
+  },
+  {
+    "text": "rey",
+    "value": 136
+  },
+  {
+    "text": "pasa",
+    "value": 135
+  },
+  {
+    "text": "alguien",
+    "value": 134
+  },
+  {
+    "text": "habla",
+    "value": 134
+  },
+  {
+    "text": "dos",
+    "value": 133
+  },
+  {
+    "text": "pinera",
+    "value": 131
+  },
+  {
+    "text": "espero",
+    "value": 131
+  },
+  {
+    "text": "zurdos",
+    "value": 131
+  },
+  {
+    "text": "hombre",
+    "value": 129
+  },
+  {
+    "text": "etc",
+    "value": 129
+  },
+  {
+    "text": "hablar",
+    "value": 129
+  },
+  {
+    "text": "dejo",
+    "value": 128
+  },
+  {
+    "text": "llego",
+    "value": 128
+  },
+  {
+    "text": "jose",
+    "value": 127
+  },
+  {
+    "text": "ir",
+    "value": 127
+  },
+  {
+    "text": "vaya",
+    "value": 126
+  },
+  {
+    "text": "paises",
+    "value": 126
+  },
+  {
+    "text": "luego",
+    "value": 125
+  },
+  {
+    "text": "cuenta",
+    "value": 125
+  },
+  {
+    "text": "tenia",
+    "value": 124
+  },
+  {
+    "text": "unico",
+    "value": 122
+  },
+  {
+    "text": "padre",
+    "value": 122
+  },
+  {
+    "text": "milei",
+    "value": 122
+  },
+  {
+    "text": "cable",
+    "value": 121
+  },
+  {
+    "text": "muchas",
+    "value": 121
+  },
+  {
+    "text": "madre",
+    "value": 120
+  },
+  {
+    "text": "eeuu",
+    "value": 119
+  },
+  {
+    "text": "dicen",
+    "value": 118
+  },
+  {
+    "text": "democracia",
+    "value": 118
+  },
+  {
+    "text": "viene",
+    "value": 117
+  },
+  {
+    "text": "guerra",
+    "value": 116
+  },
+  {
+    "text": "hermosa",
+    "value": 115
+  },
+  {
+    "text": "tal",
+    "value": 115
+  },
+  {
+    "text": "corruptos",
+    "value": 114
+  },
+  {
+    "text": "weones",
+    "value": 113
+  },
+  {
+    "text": "sido",
+    "value": 112
+  },
+  {
+    "text": "mala",
+    "value": 112
+  },
+  {
+    "text": "cualquier",
+    "value": 112
+  },
+  {
+    "text": "historia",
+    "value": 111
+  },
+  {
+    "text": "queda",
+    "value": 111
+  },
+  {
+    "text": "tanta",
+    "value": 111
+  },
+  {
+    "text": "mentiroso",
+    "value": 110
+  },
+  {
+    "text": "ve",
+    "value": 109
+  },
+  {
+    "text": "haciendo",
+    "value": 109
+  },
+  {
+    "text": "trabajar",
+    "value": 109
+  },
+  {
+    "text": "ladrones",
+    "value": 109
+  },
+  {
+    "text": "show",
+    "value": 109
+  },
+  {
+    "text": "mando",
+    "value": 108
+  },
+  {
+    "text": "deben",
+    "value": 107
+  },
+  {
+    "text": "importa",
+    "value": 107
+  },
+  {
+    "text": "delincuente",
+    "value": 107
+  },
+  {
+    "text": "wea",
+    "value": 106
+  },
+  {
+    "text": "auditoria",
+    "value": 105
+  },
+  {
+    "text": "entonces",
+    "value": 105
+  },
+  {
+    "text": "ustedes",
+    "value": 105
+  },
+  {
+    "text": "wn",
+    "value": 104
+  },
+  {
+    "text": "mujeres",
+    "value": 103
+  },
+  {
+    "text": "ningun",
+    "value": 103
+  },
+  {
+    "text": "asesino",
+    "value": 103
+  },
+  {
+    "text": "deja",
+    "value": 102
+  },
+  {
+    "text": "seria",
+    "value": 102
+  },
+  {
+    "text": "excelente",
+    "value": 102
+  },
+  {
+    "text": "patria",
+    "value": 102
+  },
+  {
+    "text": "dar",
+    "value": 102
+  },
+  {
+    "text": "salio",
+    "value": 102
+  },
+  {
+    "text": "pa",
+    "value": 102
+  },
+  {
+    "text": "dura",
+    "value": 101
+  },
+  {
+    "text": "puro",
+    "value": 101
+  },
+  {
+    "text": "deberia",
+    "value": 101
+  },
+  {
+    "text": "sr",
+    "value": 100
+  },
+  {
+    "text": "dias",
+    "value": 100
+  },
+  {
+    "text": "momento",
+    "value": 100
+  },
+  {
+    "text": "antonio",
+    "value": 99
+  },
+  {
+    "text": "comunismo",
+    "value": 99
+  },
+  {
+    "text": "buen",
+    "value": 99
+  },
+  {
+    "text": "nota",
+    "value": 99
+  },
+  {
+    "text": "claudio",
+    "value": 99
+  },
+  {
+    "text": "primera",
+    "value": 98
+  },
+  {
+    "text": "mentiras",
+    "value": 97
+  },
+  {
+    "text": "politico",
+    "value": 97
+  },
+  {
+    "text": "salir",
+    "value": 97
+  },
+  {
+    "text": "haga",
+    "value": 97
+  },
+  {
+    "text": "mucha",
+    "value": 97
+  },
+  {
+    "text": "razon",
+    "value": 97
+  },
+  {
+    "text": "corbata",
+    "value": 97
+  },
+  {
+    "text": "ladron",
+    "value": 97
+  },
+  {
+    "text": "carabinero",
+    "value": 96
+  },
+  {
+    "text": "robo",
+    "value": 96
+  },
+  {
+    "text": "kaiser",
+    "value": 95
+  },
+  {
+    "text": "ultimo",
+    "value": 95
+  },
+  {
+    "text": "malo",
+    "value": 95
+  },
+  {
+    "text": "peru",
+    "value": 95
+  },
+  {
+    "text": "pueden",
+    "value": 95
+  },
+  {
+    "text": "zurdo",
+    "value": 94
+  },
+  {
+    "text": "hicieron",
+    "value": 94
+  },
+  {
+    "text": "problema",
+    "value": 94
+  },
+  {
+    "text": "amigo",
+    "value": 94
+  },
+  {
+    "text": "corrupto",
+    "value": 94
+  },
+  {
+    "text": "sacar",
+    "value": 93
+  }
+]
