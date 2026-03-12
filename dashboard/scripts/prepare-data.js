@@ -29,6 +29,28 @@ function writeJson(filename, data) {
 }
 
 fs.mkdirSync(OUT_DIR, { recursive: true });
+
+const EXPECTED_FILES = [
+  "word_frequency.json",
+  "bot_summary.json",
+  "bot_categories.json",
+  "video_summary.json",
+  "political_summary.json",
+  "top_bots.json",
+];
+
+if (!fs.existsSync(CSV_DIR)) {
+  const allExist = EXPECTED_FILES.every((f) =>
+    fs.existsSync(path.join(OUT_DIR, f))
+  );
+  if (allExist) {
+    console.log(`CSV dir not found (${CSV_DIR}), but JSON data already exists in ${OUT_DIR}. Skipping.`);
+    process.exit(0);
+  }
+  console.error(`CSV dir not found (${CSV_DIR}) and JSON data is missing. Run the Python analysis first.`);
+  process.exit(1);
+}
+
 console.log(`Reading CSVs from: ${CSV_DIR}`);
 console.log(`Writing JSON to:   ${OUT_DIR}\n`);
 
